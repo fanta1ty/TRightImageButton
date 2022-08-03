@@ -1,0 +1,23 @@
+PODS:
+  - TRightImageButton (1.0.0):
+    - TTouchAnimatedButton (~> 1.0.0)
+  - TTouchAnimatedButton (1.0.1)
+
+DEPENDENCIES:
+  - TRightImageButton (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - TTouchAnimatedButton
+
+EXTERNAL SOURCES:
+  TRightImageButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TRightImageButton: fef39843f65a8ee9d90cc0a7d55f26049f781d33
+  TTouchAnimatedButton: 0b46615949697a2f0daef58c9d5346caa4c396ab
+
+PODFILE CHECKSUM: 01f2dfbd8710076a31fe0bf81a9127c9b4765044
+
+COCOAPODS: 1.11.3

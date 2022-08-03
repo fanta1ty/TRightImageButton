@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.3'
+
+target 'TRightImageButton_Example' do
+  pod 'TRightImageButton', :path => '../'
+
+  target 'TRightImageButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
