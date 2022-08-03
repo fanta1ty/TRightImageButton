@@ -1,4 +1,4 @@
-![LOGO]()
+![LOGO](https://github.com/fanta1ty/TRightImageButton/blob/master/ScreenShot/Logo.png)
 
 # TRightImageButton
 TRightImageButton is a simple and flexible UI component fully written in Swift. TRightImageButton is developed to help programmers create a button with right image quickly without having to write many lines of codes.
@@ -44,7 +44,7 @@ rightImageButton.customTitleLabel.text = "Right Image Button"
 rightImageButton.rightImageView.image = UIImage(named: "Image")
 ```
 
-![til]()
+![til](https://github.com/fanta1ty/TRightImageButton/blob/master/ScreenShot/demo.gif)
 
 ## Requirements
 - iOS 9.3 or later
